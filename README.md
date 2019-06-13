@@ -1,3 +1,3 @@
 # KNN_Machine_Learning
 
-version 3
+version 3.1
